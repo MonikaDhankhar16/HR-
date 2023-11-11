@@ -16,7 +16,7 @@ This interactive dashboard harnesses the capabilities of Microsoft Excel, seamle
 ## How to Use
 
 1. **Download the Excel File:**
-   - Download the Excel file (`attrition_dashboard.xlsx`) from the repository.
+   - Download the Excel file from the repository.
 
 2. **Open in Microsoft Excel:**
    - Open the file in Microsoft Excel to access the meticulously designed, interactive dashboard.
