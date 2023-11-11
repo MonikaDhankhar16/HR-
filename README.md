@@ -27,12 +27,12 @@ This interactive dashboard harnesses the capabilities of Microsoft Excel, seamle
 4. **Customize for Your Data:**
    - Tailor the Excel file to suit your specific dataset or organizational requirements by adjusting slicers, Power Query transformations, and PivotTable configurations.
 
-## Future Enhancements
+# This is the glimpse of transformed table
+<img width="1274" alt="1" src="https://github.com/MonikaDhankhar16/HR-Attrition-project-MS-Excel/assets/148658571/61bcf633-b1c6-4cb6-8abc-75fb9b6c0af1">
 
-This dashboard is an adept analytical tool, with future enhancements envisioned to include:
+# Here are some of the pivot tables and pivot charts, used for the dashboard
+<img width="1280" alt="3" src="https://github.com/MonikaDhankhar16/HR-Attrition-project-MS-Excel/assets/148658571/15edabd8-93d3-4f24-9ffd-b3aac774d29e">
+<img width="1280" alt="4" src="https://github.com/MonikaDhankhar16/HR-Attrition-project-MS-Excel/assets/148658571/cee4b2a8-ca28-40d8-8de4-f3d1505b30dd">
 
-- Integration with live data sources for real-time updates.
-- Further refinement of Power Query transformations to elevate analytical depth.
-
-Explore this professional-grade, interactive dashboard, capitalizing on the sophisticated features within Microsoft Excel. Your valuable feedback and suggestions for continuous improvement are earnestly welcomed.
-
+# This is the final interactive dashboard
+<img width="1280" alt="5" src="https://github.com/MonikaDhankhar16/HR-Attrition-project-MS-Excel/assets/148658571/963e5cc3-636b-4a67-8a70-2a40ad9a722e">
